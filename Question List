@@ -1,0 +1,25 @@
+Note: every question has to implement in two version ( eg. Q1Ver1.c for
+iterative approach, Q1Ver2.c for recursion approach)
+
+Q1. Write a program to implement display and reverse display function
+for integer array element.
+
+Q2. Write a program to implement display and reverse display function
+for string.
+
+Q3. Write a program to find sum of n numbers.
+
+Q4. Write a program to find factorial of n.
+
+Q5. Write a program to find GCD of numbers.
+
+Q6. Write a program to print fibonacci series.
+
+Q7. Write a program Number format conversions(decimal, binary and
+octal)
+
+Q8. Write a program to count no. of 1s or no. of 0's in a binary code.
+
+Q9. Write a program to find power of n .
+
+Q10. Write a program to count digits of a number.
